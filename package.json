@@ -1,0 +1,30 @@
+{
+  "name": "wan",
+  "version": "1.0.0",
+  "description": "ai wan",
+  "main": "app.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "express": "^4.13.3",
+    "body-parser": "^1.14.1",
+    "mongoose": "^4.2.4",
+    "easymysql": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolyshaw/wan.git"
+  },
+  "keywords": [
+    "wan"
+  ],
+  "author": "wolyshaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolyshaw/wan/issues"
+  },
+  "homepage": "https://github.com/wolyshaw/wan#readme"
+}
