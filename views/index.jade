@@ -1,0 +1,15 @@
+doctype html
+html(lang='en')
+  head
+    title #{title}
+    meta(charset='utf8')
+    include public/head.jade
+  body
+    include public/header.jade
+    include public/userCon.jade
+    .con.comWidth
+      //- include public/upData.jade
+
+      include public/like.jade
+
+    include public/footer.jade
